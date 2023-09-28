@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=emiliskiskis&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **emiliskiskis/emiliskiskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
